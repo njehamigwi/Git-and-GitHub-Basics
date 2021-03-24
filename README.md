@@ -15,9 +15,9 @@ Therefore, in simple terms git is a software that allows you to manage and track
 
 Git is important when creating documents and recording the changes that undergo with a lot of redrafting and revision.
 
-> It helps to identify what changes have been made while allowing the developers to revert and go back to the previous codebase.
+- It helps to identify what changes have been made while allowing the developers to revert and go back to the previous codebase.
 
-> It helps developers coordinate collaboratively while ensuring the code do not conflict.
+- It helps developers coordinate collaboratively while ensuring the code do not conflict.
 
 ## Git Beginner Concepts
 
