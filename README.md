@@ -229,7 +229,7 @@ Open the repository and a page like the below image will open up:
 The highlighted portion in the opened repository page is the repository URL.
 For instance, in this situation it is the following snippet:
 
-`https://github.com/aditya-sridhar/git-blog-demo.git`
+`https://github.com/njehamigwi/Git-and-GitHub-Basics.git`
 
 So as to point your local Git repository to the remote GitHub repository, use the following command:
 
