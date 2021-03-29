@@ -31,17 +31,17 @@ Open the command prompt and type the following command to verify Git.
 ## Creating Local Git Repository
 
 On your computer desktop, create a project folder name beginner-git-intro.
-
-`cd desktop`
-`mkdir beginner-git-intro`
-
+```
+cd desktop
+mkdir beginner-git-intro
+```
 You will always be required to add a local Git repository to the project folder so that Git can know what to manage and track.
 
 To add a local Git repository you need to go into your project folder and initialise git. Use the following commands:
-
-`cd beginner-git-intro`
-`git init`
-
+```
+cd beginner-git-intro
+git init
+```
 In the project, the local Git repository has been added using the `git init` command.
 
 ## Creating a Document for the Local Git Repository
