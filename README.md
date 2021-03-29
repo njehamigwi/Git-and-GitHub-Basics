@@ -21,7 +21,7 @@ Git is important when creating documents and recording the changes that undergo 
 
 ## Git Beginner Concepts
 
-Start by downloading git from their site here.[Git](https://git-scm.com/downloads)
+Start by downloading git from their site [here](https://git-scm.com/downloads).
 
 Open the command prompt and type the following command to verify Git.
 
