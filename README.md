@@ -239,9 +239,9 @@ So as to point your local Git repository to the remote GitHub repository, use th
 
 To push all the code from the local Git repository into the remote GitHub repository, we will use the following command:
 
-`git push -u origin master`
+`git push -u origin main`
 
-The above command pushes the code from the master branc in the local Git repo to the master branch in the remote GitHub repo.
+The above command pushes the code from the master branch in the local Git repo to the master branch in the remote GitHub repo.
 
 # Additional Commands
 
@@ -253,7 +253,7 @@ The above command pushes the code from the master branc in the local Git repo to
 
 To pull the latest change we will use the following command:
 
-`git pull origin master`
+`git pull origin main`
 
 ## Git Clone
 
